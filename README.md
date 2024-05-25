@@ -12,7 +12,6 @@
 <!-- Add or remove languages and tools as per your skills -->
 
 ## 📈 My GitHub Stats
-![Snake animation](https://github.com/DownOnCoffee/DownOnCoffee/blob/output/github-contribution-grid-snake.svg)
 ![DownOnCoffee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DownOnCoffee&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 ![DownOnCoffee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DownOnCoffee&theme=dracula&hide_border=true)
 
